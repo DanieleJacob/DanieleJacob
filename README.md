@@ -15,4 +15,6 @@ Sou uma pessoa extremamente alegre, gosto de interagir com as pessoas, amo músi
 <a href="mailto:danypoly111@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/6806/6806987.png" width="30px"/></a>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleJacob&hide_progress=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleJacob&size_weight=0.5&count_weight=0.5)

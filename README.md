@@ -11,3 +11,4 @@ Sou uma pessoa extremamente alegre, gosto de interagir com várias pessos, amo m
 Obrigada por ler até aqui 🥰
 
 <a href="https://www.linkedin.com/in/daniele-oliveira-jacob/"><img src="https://www.svgrepo.com/show/57106/linkedin.svg" width="22px" /></a>
+<a href="https://www.linkedin.com/in/daniele-oliveira-jacob/"><img src="https://cdn-icons-png.flaticon.com/512/6806/6806987.png" width="22px" /></a>

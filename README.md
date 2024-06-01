@@ -10,7 +10,7 @@ Sou uma pessoa extremamente alegre, gosto de interagir com as pessoas, amo músi
 
 **Conecte-se comigo**
 
-<a href="https://www.linkedin.com/in/daniele-oliveira-jacob/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30px"/></a>
+<a href="https://www.linkedin.com/in/daniele-oliveira-jacob/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30px"/></a>
 <a href="https://api.whatsapp.com/send?phone=5531996668456"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494494.png" width="30px"/></a>
 <a href="mailto:danypoly111@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/6806/6806987.png" width="30px"/></a>
 

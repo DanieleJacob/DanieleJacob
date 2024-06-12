@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Trabalho como desenvolvedora de e-mails, utilizando as tecnologias **HTML** e **CSS**. Venho aprimorando minha experiência com designs responsivos e otimizados para diversos clientes de e-mail.
+Trabalho como desenvolvedora de e-mails marketing na <a href="https://www.sophi.com.br/">Sophi</a> 💛, uma agência feita só
+por mulheres. Venho aprimorando minha experiência com designs responsivos e otimizados para diversos clientes de e-mail.
 
 Em dezembro de 2023 concluí meu curso de Análise e desenvolvimento de sistemas. Atualmente tenho me dedicado a um estudo mais aprofundado da linguagem Javascript, explorando alguns conceitos e recursos para o desenvolvimento web,  através de pequenos projetos práticos e desafiadores, adquirindo assim experiência na criação de aplicações interativas.
 
